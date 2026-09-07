@@ -1,2 +1,2 @@
 # RKD-PIOFimware
-为RKD1.1开发的基于PlatfromIO的新固件即将来临，敬请期待
+为RKD V2开发的基于PlatfromIO的新固件即将发布，敬请期待 😎
